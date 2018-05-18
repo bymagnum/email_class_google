@@ -10,6 +10,7 @@ example:
 <pre>
 $from = 'info@domain.com';
 $to = 'ivan@example.com';
+$subject = 'Test';
 $message = '
 &lt;html&gt;
 &lt;head&gt;
